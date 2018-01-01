@@ -10,6 +10,7 @@ Collection of my favorite frontend tools and helpers
 * [Favicon Generator](https://realfavicongenerator.net) - check and generate favicon and app icons;
 * [TinyPNG](https://tinypng.com) - best image compressor;
 * [myDevice.io](https://mydevice.io) - screen metrics, pixel density, browser features of current device;
+* [cssarrowplease](http://www.cssarrowplease.com) - generate arrows with border;
 
 ## useful articles
 * [Using svg as data URIs](https://codepen.io/tigt/post/optimizing-svgs-in-data-uris);
