@@ -9,6 +9,7 @@ Collection of my favorite frontend tools and helpers
 * [ccs2sass](https://css2sass.herokuapp.com) - CSS to SASS/SCSS converter;
 * [Favicon Generator](https://realfavicongenerator.net) - check and generate favicon and app icons;
 * [TinyPNG](https://tinypng.com) - best image compressor;
+* [myDevice.io](https://mydevice.io) - screen metrics, pixel density, browser features of current device;
 
 ## useful articles
 * [Using svg as data URIs](https://codepen.io/tigt/post/optimizing-svgs-in-data-uris);
