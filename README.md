@@ -12,6 +12,7 @@ Collection of my favorite frontend tools and helpers
 * [myDevice.io](https://mydevice.io) - screen metrics, pixel density, browser features of current device;
 * [cssarrowplease](http://www.cssarrowplease.com) - generate arrows with border;
 * [brand-colors.com](http://brand-colors.com) - find any brand color. Can be imported into project as variables for preprocessors;
+* [hamburgers](https://jonsuh.com/hamburgers/) - collection of cool hamburger menu toggles;
 
 ## useful articles
 * [Using svg as data URIs](https://codepen.io/tigt/post/optimizing-svgs-in-data-uris);
