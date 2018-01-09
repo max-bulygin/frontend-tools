@@ -10,8 +10,11 @@ Collection of my favorite frontend tools and helpers
 * [Favicon Generator](https://realfavicongenerator.net) - check and generate favicon and app icons;
 * [TinyPNG](https://tinypng.com) - best image compressor;
 * [myDevice.io](https://mydevice.io) - screen metrics, pixel density, browser features of current device;
-* [cssarrowplease](http://www.cssarrowplease.com) - generate arrows with border;
 * [brand-colors.com](http://brand-colors.com) - find any brand color. Can be imported into project as variables for preprocessors;
+
+## ui elements
+* [Sweet Alert](https://sweetalert.js.org/) - no-jQuery alternative to standart alert message;
+* [cssarrowplease](http://www.cssarrowplease.com) - generate arrows with border;
 * [hamburgers](https://jonsuh.com/hamburgers/) - collection of cool hamburger menu toggles;
 
 ## useful articles
