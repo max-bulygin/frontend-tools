@@ -16,6 +16,8 @@ Collection of my favorite frontend tools and helpers
 * [Sweet Alert](https://sweetalert.js.org/) - no-jQuery alternative to standart alert message;
 * [cssarrowplease](http://www.cssarrowplease.com) - generate arrows with border;
 * [hamburgers](https://jonsuh.com/hamburgers/) - collection of cool hamburger menu toggles;
+* [iziModal](http://izimodal.marcelodolce.com) - elegant, responsive, flexible and lightweight modal plugin with jQuery
+* [jquery-modal](http://jquerymodal.com) - simple, but powerful modal plugin with jQuery
 
 ## useful articles
 * [Using svg as data URIs](https://codepen.io/tigt/post/optimizing-svgs-in-data-uris);
