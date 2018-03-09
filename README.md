@@ -23,3 +23,4 @@ Collection of my favorite frontend tools and helpers
 ## useful articles
 * [Using svg as data URIs](https://codepen.io/tigt/post/optimizing-svgs-in-data-uris);
 * [Mobile Input Types](http://mobileinputtypes.com)
+* [SVG practical guide](https://svgontheweb.com)
