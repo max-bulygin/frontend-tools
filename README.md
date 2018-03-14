@@ -13,6 +13,7 @@ Collection of my favorite frontend tools and helpers
 * [brand-colors.com](http://brand-colors.com) - find any brand color. Can be imported into project as variables for preprocessors;
 * [SVGOMG](https://jakearchibald.github.io/svgomg/) - SVG optimizer based on SVGO with GUI;
 * [SVG Optimizer](http://petercollingridge.appspot.com/svg-optimiser) - SVG optimiser by Peter Collingridge;
+* [Sassmeister](https://www.sassmeister.com) - SASS playground and syntax converter;
 
 ## ui elements
 * [Sweet Alert](https://sweetalert.js.org/) - no-jQuery alternative to standart alert message;
